@@ -43,7 +43,7 @@ ActiveRecord::Schema.define(version: 2018_04_10_104054) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.string "starttime"
-    t.boolean "hasraced", default: false
+    t.boolean "has_raced", default: false
     t.boolean "votingOpen", default: false
   end
 
