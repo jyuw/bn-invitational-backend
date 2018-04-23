@@ -34,7 +34,7 @@ Happy Voting!
 * **Holger Tidemand**: https://github.com/holgertidemand
 * **David Boll**: https://github.com/davidboll
 * **Lara Thordardottir**: https://github.com/larathordar
-* **Jade Fy**: https://github.com/jyuw
+* **Jade Fang**: https://github.com/jyuw
 * **Karl-Magnus Thorsnes**: https://github.com/kmthorsnes
 
 ## Contributors
